@@ -42,11 +42,13 @@ A fun and functional **voice-activated AI assistant** built with Python. This as
    ```bash
    git clone https://github.com/PurviPanwalkar/Python-Voice-Assistant-Alexa-Clone.git
    cd Python-Voice-Assistant-Alexa-Clone
+
 Install dependencies:
 
 pip install -r requirements.txt
 Run the app:
 python main.py
+
 💡 Example Voice Commands
 “Alexa, play Shape of You”
 
@@ -66,6 +68,7 @@ python main.py
 ├── venv/                 # Virtual environment
 ├── requirements.txt      # Python dependencies
 ├── screenshots/          # Images for README
+
 ✅ To-Do
 Add weather report functionality
 
