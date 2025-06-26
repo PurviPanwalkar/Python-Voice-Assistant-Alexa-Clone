@@ -43,28 +43,37 @@ A fun and functional **voice-activated AI assistant** built with Python. This as
    git clone https://github.com/PurviPanwalkar/Python-Voice-Assistant-Alexa-Clone.git
    cd Python-Voice-Assistant-Alexa-Clone
 Install dependencies:
+
 pip install -r requirements.txt
 Run the app:
 python main.py
-
 💡 Example Voice Commands
 “Alexa, play Shape of You”
+
 “Alexa, what time is it?”
+
 “Alexa, who the heck is Elon Musk?”
+
 “Alexa, tell me a joke”
+
 “Alexa, are you single?”
 
 📂 Project Structure
+
+.
 ├── main.py               # Core application logic
 ├── build/                # Build files (if bundled)
 ├── venv/                 # Virtual environment
 ├── requirements.txt      # Python dependencies
 ├── screenshots/          # Images for README
-
 ✅ To-Do
 Add weather report functionality
+
 Integrate with smart home APIs
+
 Add voice training/personalization
+
+
 
 📄 License
 This project is licensed under the MIT License.
