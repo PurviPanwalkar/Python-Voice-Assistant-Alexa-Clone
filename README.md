@@ -52,7 +52,7 @@ Run the app:
 python main.py
 
 
-💡 Example Voice Commands
+## 💡 Example Voice Commands
 
 “Alexa, play Shape of You”
 
@@ -64,9 +64,8 @@ python main.py
 
 “Alexa, are you single?”
 
-📂 Project Structure
+## 📂 Project Structure
 
-.
 ├── main.py               # Core application logic
 
 ├── build/                # Build files (if bundled)
@@ -77,7 +76,7 @@ python main.py
 
 ├── screenshots/          # Images for README
 
-✅ To-Do
+## ✅ To-Do
 
 Add weather report functionality
 
@@ -87,10 +86,10 @@ Add voice training/personalization
 
 
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Inspired by Amazon Alexa and the open-source Python community.
